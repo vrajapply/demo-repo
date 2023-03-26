@@ -2,4 +2,4 @@
 
 ## local branch test
 
-<p>test-branch test</p>
+test-branch
